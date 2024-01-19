@@ -1,6 +1,6 @@
-# Ceaser_Cipher_Py
+# Caeser_Cipher_Py
 
-Creater a ceaser cipher as a part of my 100 days of code challenge. 
+Creater a caeser cipher as a part of my 100 days of code challenge. 
 
 This is how the output looks like:
 
